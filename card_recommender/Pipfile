@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "==2.1"
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+django-import-export = "*"
+django-allauth = "*"
+https://drive.google.com/drive/folders/1QBOuQY9yHXsld42EjNhjDGUBwIhz1gU_?usp=sharing&fbclid=IwAR0pM1Vz7X4v4WOcrjLsXexpsmJPgGS3mUTPDtxiMNeG_V2ORtkBfyQZJ3s = "*"
+
+[requires]
+python_version = "3.7"
